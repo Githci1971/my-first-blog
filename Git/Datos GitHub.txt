@@ -1,0 +1,19 @@
+Git
+
+username
+Githci1971
+cabrera.ipicyt@gmail.com
+githci123
+
+pythonanywhere
+
+cabreraipicyt
+cabrera.ipicyt@gmail.com
+githci123
+Your API token
+173469fe094c96f77f7ce4958a3aed1d59b40927
+
+Superusuario
+Username (leave blank to use 'walmart'): Hugo_Cabrera
+Email address: cabrera.ipicyt@gmail.com
+Password cabrerawalmart
